@@ -1,0 +1,41 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "yogev" ,
+        "pic" : "123.jpg",
+        "aboutme" : "",
+        "phone" : "0507123123",
+        "email" : "123@gmail.com",
+        "location" : "tel-aviv",
+        "dogid" : [1]
+        
+    },
+    {
+        "id" : 2 ,
+        "name" : "eti" ,
+        "pic" : "123.jpg",
+        "aboutme" : "",
+        "phone" : "0506456456",
+        "email" : "456@gmail.com",
+        "location" : "tel-aviv",
+        "dogid" : [2]
+        
+    },
+
+    {
+        "id" : 3 ,
+        "name" : "amuta1",
+        "dogid" : [
+                 5,6
+                 ]
+
+    },
+    {
+        "id" : 4 ,
+        "name" : "amuta1",
+        "dogid" : [
+                  4,5
+                 ]
+
+    }
+]

@@ -1,15 +1,15 @@
 import React from 'react';
 
-class NewAdd extends React.Component {
+class MagazinePage extends React.Component {
     constructor(props) {
         super(props)
     }
 
     render() {
         return (
-            <div>New Add</div>
+            <div>מגזין</div>
         )
     }
 }
 
-export default NewAdd;
+export default MagazinePage;

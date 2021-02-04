@@ -1,0 +1,93 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "יוגב" ,
+        "pic" : "https://wundergroundmusic.com/wp-content/uploads/2013/12/freak17n-5-web.jpg",
+        "aboutme" : "",
+        "phone" : "0507123123",
+        "email" : "yogev123@gmail.com",
+        "pwd" : "123",
+        "location" : "tel-aviv",
+        "dogid" : [1]
+        
+    },
+    {
+        "id" : 2 ,
+        "name" : "אתי" ,
+        "pic" : "https://static3.depositphotos.com/1000480/111/i/950/depositphotos_1115751-stock-photo-beautiful-woman-near-tree.jpg",
+        "aboutme" : "",
+        "phone" : "0506456456",
+        "email" : "eti123@gmail.com",
+        "pwd" : "123",
+        "location" : "tel-aviv",
+        "dogid" : [2]
+        
+    },
+
+    {
+        "id" : 3 ,
+        "name" : "תנו לחיות לחיות",
+        "pic" : "https://www.letlive.org.il/wp-content/uploads/2019/02/logo-testing.jpg",
+        "aboutme" : "",
+        "phone" : "0536456456",
+        "email" : "am123@gmail.com",
+        "pwd" : "123",
+        "location" : "tel-aviv",
+        "dogid" : [
+                  3,4
+                 ]
+
+    },
+    {
+        "id" : 4 ,
+        "name" : "צער בעלי חיים",
+        "pic" : "https://www.israeltoremet.org//Pictures/AmutaPictures/14_Large_logo.jpg",
+        "aboutme" : "",
+        "phone" : "0546456456",
+        "email" : "am456@gmail.com",
+        "pwd" : "456",
+        "location" : "tel-aviv",
+        "dogid" : [
+                  5,6
+                 ]
+
+    },
+    {
+        "id" : 5 ,
+        "name" : "כלביית תל אביב",
+        "pic" : "https://www.letlive.org.il/wp-content/uploads/2016/08/tel-aviv.jpgg",
+        "aboutme" : "",
+        "phone" : "0546456456",
+        "email" : "am789@gmail.com",
+        "pwd" : "789",
+        "location" : "tel-aviv", 
+        "dogid" : [
+                  7
+                 ]
+
+    },
+    {
+        "id" : 7 ,
+        "name" : "מיכל" ,
+        "pic" : "https://breaking911.com/wp-content/uploads/2019/03/D2_2-VLWkAIDUc_.jpg",
+        "aboutme" : "",
+        "phone" : "0501123123",
+        "email" : "michal123@gmail.com",
+        "pwd" : "m123",
+        "location" : "tel-aviv",
+        "dogid" : [8]
+        
+    },
+    {
+        "id" : 8 ,
+        "name" : "רונן" ,
+        "pic" : "https://www.vernonmorningstar.com/wp-content/uploads/2017/05/web1_Crook-Parker-cookie-2017.jpg",
+        "aboutme" : "",
+        "phone" : "0502123123",
+        "email" : "oneg123@gmail.com",
+        "pwd" : "o123",
+        "location" : "tel-aviv",
+        "dogid" : [9]
+        
+    }
+]

@@ -7,7 +7,7 @@ class PersonalPage extends React.Component {
 
     render() {
         return (
-            <div>Personal Spot</div>
+            <div>אזור אישי</div>
         )
     }
 }

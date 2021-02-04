@@ -1,15 +1,16 @@
+
 import React from 'react';
 
-class Events extends React.Component {
+class ContacPage extends React.Component {
     constructor(props) {
         super(props)
     }
 
     render() {
         return (
-            <div>Up Comping events</div>
+            <div>צור קשר</div>
         )
     }
 }
 
-export default Events;
+export default ContacPage;

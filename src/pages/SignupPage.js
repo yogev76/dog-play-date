@@ -7,7 +7,7 @@ class SignupPage extends React.Component {
 
     render() {
         return (
-            <div>SignUp</div>
+            <div>הרשם</div>
         )
     }
 }
